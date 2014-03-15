@@ -1,0 +1,4 @@
+openloteryapp
+=============
+
+The phonegap app
